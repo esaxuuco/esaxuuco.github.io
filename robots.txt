@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://esaxuuco.github.io/SeQ/sitemap_index.txt.gz
+Sitemap: https://esaxuuco.github.io/XvV/sitemap_index.txt.gz
+Sitemap: https://esaxuuco.github.io/bcZ/sitemap_index.txt.gz
+Sitemap: https://esaxuuco.github.io/geH/sitemap_index.txt.gz
+Sitemap: https://esaxuuco.github.io/rCL/sitemap_index.txt.gz
